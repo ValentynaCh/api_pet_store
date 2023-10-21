@@ -1,2 +1,3 @@
-# epam_python_tests
-This project contains python Selenium tests for testing some cases on the Epam web site.
+
+
+Python tests for https://petstore.swagger.io/
